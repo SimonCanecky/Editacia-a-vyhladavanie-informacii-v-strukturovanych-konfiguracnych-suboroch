@@ -1,0 +1,58 @@
+[Network]
+Description=Network adapter settings
+Link speed=1000 Mb/s
+IPv4=192.168.1.151
+IPv6=fe80::622c:bda2:4a3f:f77b
+MAC address=70:85:C2:56:1C:E9
+Gateway=192.168.1.1
+DNS=192.168.1.1
+Connect automatically=true
+; Riadok s komentarom
+
+[Audio]
+Description=Speaker and microphone settings
+Output device=Realtek HD Audio
+Volume=72
+Balance=-8
+Input device=Sennheiser MKE 400
+
+[Power]
+Description=Power and battery settings
+Screen blank=15
+Automatic suspend=off
+Power button behavior=Power Off
+Performance mode=Maximum performance
+Maximum noise=40 dB
+
+; Riadok s komentarom
+[Display]
+Device name=LG Electronics
+Orientation=Landscape
+; Riadok s komentarom
+Resolution=2560x1440
+   Refresh rate =144 Hz
+Scale=100%
+
+[Printer]
+Device name=HP Color LaserJet Pro M255dw
+Status=   Ready
+Pages per side=1
+Orientation=Portrait
+Paper source=Auto-select
+Paper size=A4
+Output tray=Default
+Print type=2-sided
+
+[System info]
+Device name=Manjaro PC
+Memory=32,0 GiB
+CPU=Intel Core i7-7700K x 8
+GPU=NVIDIA GeForce GTX 1070 Ti
+Disk capacity=4,1 TB
+OS Type=64-bit
+
+[Empty section]
+; Riadok s komentarom
+; Riadok s komentarom
+
+
