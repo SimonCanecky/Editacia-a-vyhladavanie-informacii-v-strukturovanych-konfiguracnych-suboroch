@@ -8,3 +8,5 @@
  - Po načítaní vstupného textu sa vyhľadajú alebo aktualizujú záznamy vyhovujúce zadaným filtrom.
  - Výsledkom je vždy vypísanie údajov (vyhľadaných/aktualizovaných) konfiguračného súboru v požadovanom formáte na štandardný výstup.
  - Okrem štandardného behu programu, sú ošetrené aj chybové situácie,  na ktoré program reaguje ukončením jeho činnosti a výpisom príslušného chybového hlásenia.
+#
+![image](https://github.com/SimonCanecky/Editacia-a-vyhladavanie-informacii-v-strukturovanych-konfiguracnych-suboroch/assets/71691945/4f0c5bbc-cfde-4e9f-8186-1f653a4c62e3)
